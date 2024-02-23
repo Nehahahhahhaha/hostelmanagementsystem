@@ -1,0 +1,35 @@
+
+body{
+    background-image: url(nepal.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+form{
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    padding:10%;
+    margin-left:17%;
+    margin-right: 17%;
+}
+input[type=button]{
+    font-size: 10px;
+}
+input[type=text]{
+    font-size: 10px;
+}
+input[type=password]{
+    font-size: 10px;
+}
+.container{
+    background: rgba(0, 0, 0, 0.2) ;
+    padding:100px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-color: black;
+    border-style: solid;
+}
+h1{
+    text-align: center;
+    color: rgb(127, 255, 212);
+}
